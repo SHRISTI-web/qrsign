@@ -18,6 +18,9 @@
   "homepage": "https://github.com/rm5973/qrsign#readme",
   "dependencies": {
     "express": "^4.17.3",
-    "nodemon": "^2.0.15"
+    "fast-two-sms": "^3.0.0",
+    "install": "^0.13.0",
+    "nodemon": "^2.0.15",
+    "npm": "^8.7.0"
   }
 }
